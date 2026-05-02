@@ -1,0 +1,5 @@
+Path,Frames,Label,Attr_Key,Material,Sensor,Clean_Label,Label_ID
+source11/balling/rawdata,1136,Unlabeled,,Unknown,Unknown,Balling,0
+source11/irregularity/rawdata,1012,Unlabeled,,Unknown,Unknown,Normal,1
+source11/normal/rawdata,1136,Unlabeled,,Unknown,Unknown,Normal,1
+source11/overheating/rawdata,1135,Unlabeled,,Unknown,Unknown,Overheating,2
